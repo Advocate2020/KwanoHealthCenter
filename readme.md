@@ -4,4 +4,4 @@ The Kwano Health Center system is a system developed as a solution to the curren
 
 The system was developed using laravel 5.8. 
 
-Once you download the project dont forget to run nmp install.
+Once you download the project dont forget to run npm install.
